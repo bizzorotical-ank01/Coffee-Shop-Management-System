@@ -1,6 +1,6 @@
 **GitHub Project Description: Coffee Shop Management System**  
 
-Overview*
+**Overview**
 The **Coffee Shop Management System** is a user-friendly **desktop application** developed using **C++** and **SQL Server**. This system simplifies the management of coffee shop operations, including **customer records**, **billing**, **payment tracking**, and **daily transaction management**. It automates routine processes, reduces errors, and saves time for coffee shop owners.  
 
 With an intuitive interface and secure data handling, it offers a reliable solution for small to medium-sized coffee shops and cafes looking for a modern alternative to traditional manual record-keeping.  
@@ -65,9 +65,10 @@ Contributions, feedback, and suggestions are welcome! If you'd like to enhance t
 
 ---
 
-**🗂️ Keywords & Tags**  
+**Keywords & Tags**  
 Coffee Shop Management System, Billing System, Payment Tracking, Customer Records, SQL Server Database, C++ Desktop Application, POS System, Small Business Management, Cafe POS, Transaction Management, Inventory Management, SQL Integration, C++ Project, Point of Sale System.  
 
 ---
 
-This project is a great way to **modernize coffee shop management** while also serving as a valuable **learning project for C++ and SQL** development. 💻☕
+This project is a great way to **modernize coffee shop management** while also serving as a valuable **learning project for C++ and SQL** development. 
+Any issue, Let's Connect, Till then GOOD LUCK BUDDY!
